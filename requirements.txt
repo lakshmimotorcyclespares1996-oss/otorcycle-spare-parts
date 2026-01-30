@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+supabase
+python-dotenv
+pydantic
+python-multipart
+jinja2
+redis
+fuzzywuzzy
+python-levenshtein
